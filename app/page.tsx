@@ -6,6 +6,8 @@ export default function Home() {
       <h1 className="font-bold text-red-500 size-10">METRO NAVI</h1>
       <div className="min-h-40 bg-/images/S__117825549.jpg">
 
+新しいブランチの作成
+
       </div>
 
       <div>
